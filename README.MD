@@ -1,0 +1,3 @@
+APRENDENDO PYTHON Python do Zero à Automação com N8N
+
+PROJETO EXEMPLO
